@@ -1,0 +1,15 @@
+C:\intern\xunit\bin\Debug\net8.0\xunit.exe
+C:\intern\xunit\bin\Debug\net8.0\xunit.deps.json
+C:\intern\xunit\bin\Debug\net8.0\xunit.runtimeconfig.json
+C:\intern\xunit\bin\Debug\net8.0\xunit.dll
+C:\intern\xunit\bin\Debug\net8.0\xunit.pdb
+C:\intern\xunit\obj\Debug\net8.0\xunit.GeneratedMSBuildEditorConfig.editorconfig
+C:\intern\xunit\obj\Debug\net8.0\xunit.AssemblyInfoInputs.cache
+C:\intern\xunit\obj\Debug\net8.0\xunit.AssemblyInfo.cs
+C:\intern\xunit\obj\Debug\net8.0\xunit.csproj.CoreCompileInputs.cache
+C:\intern\xunit\obj\Debug\net8.0\xunit.sourcelink.json
+C:\intern\xunit\obj\Debug\net8.0\xunit.dll
+C:\intern\xunit\obj\Debug\net8.0\refint\xunit.dll
+C:\intern\xunit\obj\Debug\net8.0\xunit.pdb
+C:\intern\xunit\obj\Debug\net8.0\xunit.genruntimeconfig.cache
+C:\intern\xunit\obj\Debug\net8.0\ref\xunit.dll
